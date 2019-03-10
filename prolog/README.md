@@ -20,9 +20,9 @@ Contains the available solutions in Prolog.
 | 2      | [PS2-PL1819][PS2]   | [PS1-Prolog][PS2P] | [PS1-SWISH][PS2S] |
 
 [PS1]: https://github.com/wisn/programming-logic/blob/master/problems/PS1-PL1819.pdf
-[PS1P]: https://github.com/wisn/programming-logic/blob/master/prolog/problem-set/PS1-Wisnu.pl
-[PS1S]: http://swish.swi-prolog.org/?code=https://github.com/wisn/programming-logic/raw/master/prolog/problem-set/PS1-Wisnu.pl&q=married(anya,benjamin).
+[PS1P]: https://github.com/wisn/programming-logic/blob/master/prolog/problem-sets/PS1-Wisnu.pl
+[PS1S]: http://swish.swi-prolog.org/?code=https://github.com/wisn/programming-logic/raw/master/prolog/problem-sets/PS1-Wisnu.pl&q=married(anya,benjamin).
 [PS2]: https://github.com/wisn/programming-logic/blob/master/problems/PS2-PL1819.pdf
-[PS2P]: https://github.com/wisn/programming-logic/blob/master/prolog/problem-set/PS2-Wisnu.pl
-[PS2S]: http://swish.swi-prolog.org/?code=https://github.com/wisn/programming-logic/raw/master/prolog/problem-set/PS2-Wisnu.pl&q=max3numbers(1,2,3).
+[PS2P]: https://github.com/wisn/programming-logic/blob/master/prolog/problem-sets/PS2-Wisnu.pl
+[PS2S]: http://swish.swi-prolog.org/?code=https://github.com/wisn/programming-logic/raw/master/prolog/problem-sets/PS2-Wisnu.pl&q=max3numbers(1,2,3).
 

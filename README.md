@@ -33,7 +33,7 @@ Here is the available contents at the moment.
 
 * [Prolog](prolog/)
   * [Homework](prolog/homework/)
-  * [Problem Set](prolog/problem-set/)
+  * [Problem Set](prolog/problem-sets/)
 
 ## License
 
