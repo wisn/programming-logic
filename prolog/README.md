@@ -17,7 +17,7 @@ Contains the available solutions in Prolog.
 | Number | Problem Description | Source Code        | SWISH             |
 |--------|---------------------|--------------------|-------------------|
 | 1      | [PS1-PL1819][PS1]   | [PS1-Prolog][PS1P] | [PS1-SWISH][PS1S] |
-| 2      | [PS2-PL1819][PS2]   | [PS1-Prolog][PS2P] | [PS1-SWISH][PS2S] |
+| 2      | [PS2-PL1819][PS2]   | [PS2-Prolog][PS2P] | [PS2-SWISH][PS2S] |
 
 [PS1]: https://github.com/wisn/programming-logic/blob/master/problems/PS1-LP1819.pdf
 [PS1P]: https://github.com/wisn/programming-logic/blob/master/prolog/problem-sets/PS1-Wisnu.pl
