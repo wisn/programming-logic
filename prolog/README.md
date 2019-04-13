@@ -18,6 +18,8 @@ Contains the available solutions in Prolog.
 |--------|---------------------|--------------------|-------------------|
 | 1      | [PS1-LP1819][PS1]   | [PS1-Prolog][PS1P] | [PS1-SWISH][PS1S] |
 | 2      | [PS2-LP1819][PS2]   | [PS2-Prolog][PS2P] | [PS2-SWISH][PS2S] |
+| 3      |                     |                    |                   |
+| 4      | [PS4-LP1819][PS4]   | [PS4-Prolog][PS4P] | [PS4-SWISH][PS4S] |
 
 [PS1]: https://github.com/wisn/programming-logic/blob/master/problems/PS1-LP1819.pdf
 [PS1P]: https://github.com/wisn/programming-logic/blob/master/prolog/problem-sets/PS1-Wisnu.pl
@@ -25,4 +27,7 @@ Contains the available solutions in Prolog.
 [PS2]: https://github.com/wisn/programming-logic/blob/master/problems/PS2-LP1819.pdf
 [PS2P]: https://github.com/wisn/programming-logic/blob/master/prolog/problem-sets/PS2-Wisnu.pl
 [PS2S]: http://swish.swi-prolog.org/?code=https://github.com/wisn/programming-logic/raw/master/prolog/problem-sets/PS2-Wisnu.pl&q=max3numbers(1,2,3).
+[PS4]: https://github.com/wisn/programming-logic/blob/master/problems/PS1-LP1819.pdf
+[PS4P]: https://github.com/wisn/programming-logic/blob/master/prolog/problem-sets/PS4-Wisnu.pl
+[PS4S]: http://swish.swi-prolog.org/?code=https://github.com/wisn/programming-logic/raw/master/prolog/problem-sets/PS4-Wisnu.pl&q=addone([1,2,3,],L).
 
