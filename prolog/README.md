@@ -20,6 +20,7 @@ Contains the available solutions in Prolog.
 | 2      | [PS2-LP1819][PS2]   | [PS2-Prolog][PS2P] | [PS2-SWISH][PS2S] |
 | 3      |                     |                    |                   |
 | 4      | [PS4-LP1819][PS4]   | [PS4-Prolog][PS4P] | [PS4-SWISH][PS4S] |
+| 5      | [PS5-LP1819][PS5]   | [PS5-Prolog][PS5P] | [PS5-SWISH][PS5S] |
 
 [PS1]: https://github.com/wisn/programming-logic/blob/master/problems/PS1-LP1819.pdf
 [PS1P]: https://github.com/wisn/programming-logic/blob/master/prolog/problem-sets/PS1-Wisnu.pl
@@ -30,4 +31,7 @@ Contains the available solutions in Prolog.
 [PS4]: https://github.com/wisn/programming-logic/blob/master/problems/PS1-LP1819.pdf
 [PS4P]: https://github.com/wisn/programming-logic/blob/master/prolog/problem-sets/PS4-Wisnu.pl
 [PS4S]: http://swish.swi-prolog.org/?code=https://github.com/wisn/programming-logic/raw/master/prolog/problem-sets/PS4-Wisnu.pl&q=addone([1,2,3,],L).
+[PS5]: https://github.com/wisn/programming-logic/blob/master/problems/PS5-LP1819.pdf
+[PS5P]: https://github.com/wisn/programming-logic/blob/master/prolog/problem-sets/PS5-Wisnu.pl
+[PS5S]: http://swish.swi-prolog.org/?code=https://github.com/wisn/programming-logic/raw/master/prolog/problem-sets/PS5-Wisnu.pl&q=arithmetic([1,2,3]).
 
